@@ -1,4 +1,3 @@
----
 # Automation Engineer Assessment Submission
 **Candidate:** Balaji Kupsingh
 
