@@ -1,0 +1,25 @@
+{
+  "name": "balajikupsingh-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balajikupsingh/balajikupsingh-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balajikupsingh/balajikupsingh-playwright/issues"
+  },
+  "homepage": "https://github.com/balajikupsingh/balajikupsingh-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0"
+  }
+}
